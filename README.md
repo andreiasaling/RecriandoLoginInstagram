@@ -7,3 +7,7 @@ Projeto realizado a partir da plataforma [Digital Innovation One](dio.me) com or
  
 **Objetivo do projeto:**
  - Prática de CSS com Flexbox
+
+<br>
+
+- Visualize a página [clicando aqui](https://andreiasaling.github.io/RecriandoLoginInstagram/)
